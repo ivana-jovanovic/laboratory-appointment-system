@@ -8,7 +8,7 @@ When scheduling an appointment, the employee selects a patient and a service, th
 ## Technologies Used
 - **Java** (Object-Oriented Programming)
 - **Swing** – for the graphical user interface  
-- **SQLyog** – for database storage  
+- **MySQL** – for database storage  
 - **JDBC** – for database connectivity  
 - **Socket Programming** – for client-server communication  
 
