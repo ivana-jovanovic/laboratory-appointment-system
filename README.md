@@ -21,3 +21,9 @@ When scheduling an appointment, the employee selects a patient and a service, th
       *No additional configuration of the database connection in the code is required*
 ### 4. Run the server application aand click the button “Pokreni server” (Start Server)
 ### 5. Run the client application, login and use the system
+
+## 📄 Documentation
+
+For additional information, see the full documentation:
+[View Documentation](https://drive.google.com/file/d/1yl5YmuqXaNB-Q6Qo5tCuumXoO9mJh-SE/view?usp=sharing)
+
